@@ -43,6 +43,6 @@
 - **Website**: [https://fast-game.xyz/](https://fast-game.xyz/)
 - **Telegram Bot**: [@FAST_GAME_VPN_bot](https://t.me/FAST_GAME_VPN_bot?start=github)
 - **Downloads**: [Latest Releases](https://github.com/NoiLord/FAST-GAME-VPN-Releases/releases)
-- **Highlights**: Xray VLESS TCP REALITY Vision + BBR, XHTTP anti-censorship routes, process/folder Split Tunneling (`Auto · Full`), ad-free YouTube routing, Windows Optimizer (22 reversible tweaks), built-in AI Manager (ChatGPT / Gemini / Claude / Antigravity / Codex over local VPN proxy), 34+ countries, up to 5 devices, unlimited traffic.
+- **Highlights**: Xray VLESS TCP REALITY Vision + BBR, XHTTP resilient CDN routes, process/folder Split Tunneling (`Auto · Full`), ad-free YouTube routing, Windows Optimizer (22 reversible tweaks), built-in AI Manager (ChatGPT / Gemini / Claude / Antigravity / Codex over local VPN proxy), 34+ countries, up to 5 devices, unlimited traffic.
 
 *This repository distributes official compiled binaries and release manifests only.*
